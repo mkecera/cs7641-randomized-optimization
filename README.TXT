@@ -1,4 +1,4 @@
-Link to the code and data: https://github.gatech.edu/mkecera3/cs7641-randomized-optimization
+Link to the code and data: https://github.com/mkecera/cs7641-randomized-optimization
 All used libraries are saved in env.yml
 Steps to run the code:
 1. Install Anaconda https://docs.anaconda.com/anaconda/install/
